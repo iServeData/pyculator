@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-02
+
+- MIT license, CONTRIBUTING.md and SECURITY.md.
+- CI: `tools/check_generic.py` fails on IP addresses, Discord-style IDs and private terms; `pyculator.py` must compile.
+
 ## 2022-02-21
 
 - Pyculator Redux: the calculator works. It converts Linux permissions between numeric (for example 755)
