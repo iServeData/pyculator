@@ -25,4 +25,4 @@ jobs:
           PRIVATE_TERMS: ${{ secrets.PRIVATE_TERMS }}
         run: python tools/check_generic.py
       - name: Python compiles
-        run: python -m py_compile pyculator.py
+        run: python -m py_compile pyculator.py pyculator_setpermissions.py

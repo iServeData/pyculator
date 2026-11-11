@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-11
+
+- `pyculator_setpermissions.py`: curly quotes replaced with straight quotes, so the script runs again.
+- CI: `pyculator_setpermissions.py` must compile too.
+
 ## 2026-11-02
 
 - MIT license, CONTRIBUTING.md and SECURITY.md.
